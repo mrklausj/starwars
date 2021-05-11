@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'starwars';
+  // name: string = undefined;
+  // name: string;
+
+  // mail
+//   mail: string;
+//   mail2: string = '';
+//
 }
